@@ -1,6 +1,7 @@
 [![Java](https://img.shields.io/badge/Java-E43222??style=for-the-badge&logo=java&logoColor=FFFFFF)](https://java.com/)
 
-# CodingNotProblems
+# CodingNotProblems 
+#### ver 1.0
 -------
 Improve your Java Programming skills by solving real-world coding challenges
 
